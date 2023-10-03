@@ -1,0 +1,7 @@
+C:\Users\bromo\source\repos\Text_Game\Text_Game\bin\Debug\Text_Game.exe.config
+C:\Users\bromo\source\repos\Text_Game\Text_Game\bin\Debug\Text_Game.exe
+C:\Users\bromo\source\repos\Text_Game\Text_Game\bin\Debug\Text_Game.pdb
+C:\Users\bromo\source\repos\Text_Game\Text_Game\obj\Debug\Text_Game.csproj.AssemblyReference.cache
+C:\Users\bromo\source\repos\Text_Game\Text_Game\obj\Debug\Text_Game.csproj.CoreCompileInputs.cache
+C:\Users\bromo\source\repos\Text_Game\Text_Game\obj\Debug\Text_Game.exe
+C:\Users\bromo\source\repos\Text_Game\Text_Game\obj\Debug\Text_Game.pdb
